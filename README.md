@@ -1,4 +1,4 @@
-## Olá, eu sou Gabriel Venâncio👋
+## Olá, eu sou Gabriel Venâncio
 
 - cursando desenvolvimento web
 - Contate-me no e-mail: gabrielvenancio.lb@gmail.com 
